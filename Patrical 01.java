@@ -1,4 +1,4 @@
-//Write you first java programme to display “Hello World” on the screen//
+*//Write you first java programme to display “Hello World” on the screen//
 
 public class Red 
  { 
